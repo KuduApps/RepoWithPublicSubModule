@@ -1,0 +1,3 @@
+[submodule "PublicSubModule"]
+	path = PublicSubModule
+	url = https://github.com/KuduApps/PublicSubModule.git
